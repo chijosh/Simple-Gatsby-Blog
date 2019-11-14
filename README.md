@@ -28,13 +28,11 @@ Kick off your project with this hello-world boilerplate. This starter ships with
 
 ## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
-
-    Use the Gatsby CLI to create a new site, specifying the hello-world starter.
+1.  **Clone this Repo**
 
     ```shell
-    # create a new Gatsby site using the hello-world starter
-    gatsby new my-hello-world-starter https://github.com/gatsbyjs/gatsby-starter-hello-world
+    # clone this repo via github link
+    git clone https://github.com/chijosh/Simple-Gatsby-Blog.git
     ```
 2.  **Install all packages**
 
