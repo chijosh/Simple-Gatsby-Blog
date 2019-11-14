@@ -108,4 +108,20 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/a-simple-gatsby-blog/deploy?repository=https://github.com/chijosh/Simple-Gatsby-Blog)
 
+## **🏎 Core technologies**
 
+- _**[Gatsby](https://www.gatsbyjs.org/)**_
+
+- _**[GraphQL](https://graphql.org)**_
+
+## **🎁 Other NPM modules**
+
+- _**[DotEnv](https://www.npmjs.com/package/dotenv)**_
+
+## Prerequisites
+
+---
+
+- [NodeJS](https://nodejs.org/en/).
+- IDE of your choice.
+- Command Line Tools.
