@@ -46,7 +46,7 @@ Kick off your project with this hello-world boilerplate. This starter ships with
     or
 
     ```shell
-    cd Measur/
+    cd simple-gatsby-blog/
     npm install
     ```
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
